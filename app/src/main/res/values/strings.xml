@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Android_Application_3</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="adres">Adres</string>
+    <string name="downloadInfo">POBIERZ INFORMACJE</string>
+    <string name="sizeFile">Rozmiar pliku</string>
+    <string name="typeFile">Typ pliku</string>
+    <string name="downloadFile">POBIERZ PLIK</string>
+    <string name="downloadBytes">Pobrano bajtów</string>
+    <string name="defaultAddress">https://cdn.kernel.org/pub/linux/kernel/v5.x/linux-5.4.36.tar.xz</string>
+    <string name="pobieraniePliku">Pobieranie Pliku</string>
+    <string name="pobieranieWybranegoPliku">Pobieranie danego pliku</string>
+    <string name="pobrano">Pobrano:</string>
+</resources>
+
